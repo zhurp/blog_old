@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编程 on Rongping Zhu&#39;s Blog</title>
+    <link>https://zhurp.github.io/post/programming/</link>
+    <description>Recent content in 编程 on Rongping Zhu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://zhurp.github.io/post/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
